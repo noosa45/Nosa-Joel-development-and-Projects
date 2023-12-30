@@ -9,7 +9,10 @@ The PowerShell Backup Tool is a versatile script designed to simplify the proces
 - **Execution Policy:**
     - Ensure that your PowerShell execution policy allows the running of scripts on your system.
 
- **Administrative Privileges:**
+- **Administrative Privileges:**
       - Administrative privileges may be required, particularly if the source or destination folders are located in protected directories.
+
+
+
 
 **Note:** Customise the script or accompanying documentation to suit specific needs or additional instructions. 
