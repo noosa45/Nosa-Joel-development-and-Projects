@@ -4,6 +4,20 @@
 The PowerShell Backup Tool is a versatile script designed to simplify the process of creating folder backups. This script empowers users to safeguard their data by providing an efficient and user-friendly solution for routine backups
 
 
+## How to Use
+
+### Installation
+
+1. Download the `Backup-Script.ps1` file to your local machine.
+2. Open a PowerShell session and navigate to the directory containing the script.
+
+### Usage
+
+1. Run the script by executing the command:
+   ```powershell
+   .\Backup-Script.ps1
+
+
 ## Additional Notes
 
 ### Execution Policy:
