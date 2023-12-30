@@ -15,4 +15,3 @@ The PowerShell Backup Tool is a versatile script designed to simplify the proces
 
 
 
-**Note:** Customise the script or accompanying documentation to suit specific needs or additional instructions. 
