@@ -5,7 +5,7 @@ The PowerShell Backup Tool is a versatile script designed to simplify the proces
 
 
 ## Additional Notes
-
+  
 - **Execution Policy:**
     - Ensure that your PowerShell execution policy allows the running of scripts on your system.
 
