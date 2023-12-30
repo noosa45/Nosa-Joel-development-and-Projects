@@ -27,5 +27,5 @@ Before running the PowerShell Backup Tool, ensure that your PowerShell execution
 ```powershell
 Set-ExecutionPolicy RemoteSigned
 
-- This command allows the execution of locally created scripts while requiring remote scripts to be signed by a trusted publisher.
-
+##
+This command allows the execution of locally created scripts while requiring remote scripts to be signed by a trusted publisher.
