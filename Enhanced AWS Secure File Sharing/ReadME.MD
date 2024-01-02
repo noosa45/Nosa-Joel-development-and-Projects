@@ -1,7 +1,7 @@
 # Enhanced AWS Secure File Sharing
 
 ## Project Overview
-This project delivers a comprehensive AWS-based solution for secure file storage and sharing. Leveraging Amazon S3, it includes essential configurations such as static website hosting, fine-grained access control policies, and efficient monitoring. By organizing files into folders and implementing CORS for secure domain interactions, this project ensures a robust and user-friendly experience. Advanced features like IAM roles, S3 Transfer Acceleration, and Replication further enhance the overall file management capabilities. Explore this AWS project to optimize your file storage and sharing needs in the cloud.
+This project delivers a comprehensive AWS-based solution for secure file storage and sharing. Leveraging Amazon S3, it includes essential configurations such as static website hosting, fine-grained access control policies, and efficient monitoring. By organizing files into folders and implementing CORS for secure domain interactions, this project ensures a robust and user-friendly experience. Advanced features like IAM roles further enhance the overall file management capabilities. Explore this AWS project to optimize your file storage and sharing needs in the cloud.
 
 
 ## Project Structure
