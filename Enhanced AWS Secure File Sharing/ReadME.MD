@@ -15,24 +15,23 @@ This project delivers a comprehensive AWS-based solution for secure file storage
 - [Challenges](#challenges)
 
 
+## Key Features
+
+- **Static Website Hosting:** Utilize S3 for hosting to ensure seamless access.
+- **Access Control Policies:** Implement fine-grained control using IAM roles and policies.
+- **CORS Implementation:** Secure domain interactions through CORS settings.
+- **Monitoring with CloudWatch:** Enable access logging and set up CloudWatch Events for event-driven monitoring.
+- **Advanced Configurations:** Explore features like S3 Transfer Acceleration and Replication for optimized performance.
+
+## Project Structure
+
 - **/src:** Contains the project source code.
 - **/docs:** Documentation related to the project.
 - **/screenshots:** Visual representations of the project in action.
 
-## Steps to Replicate
-1. **Set Up Amazon S3 Bucket:**
-   - Follow the steps mentioned earlier to create an Amazon S3 bucket with a unique name.
-   - Configure the bucket for static website hosting.
+## Getting Started
 
-2. **Create Folders in S3 Bucket:**
-   - Inside your S3 bucket, create folders to organize different types of files.
-
-...
-
-## Challenges
-- Configure fine-grained access control using IAM roles and policies.
-- Explore and implement S3 Transfer Acceleration.
-- Set up Amazon S3 Replication for data redundancy.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/aws-secure-file-storage.git
+   cd aws-secure-file-storage
