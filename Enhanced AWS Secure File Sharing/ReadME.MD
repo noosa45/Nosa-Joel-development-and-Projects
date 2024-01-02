@@ -1,4 +1,3 @@
-
 # Enhanced AWS Secure File Sharing
 
 ## Project Overview
