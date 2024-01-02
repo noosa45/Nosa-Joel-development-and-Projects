@@ -14,6 +14,11 @@ This project delivers a comprehensive AWS-based solution for secure file storage
 - [Cross-Origin Resource Sharing (CORS)](#cross-origin-resource-sharing-cors)
 - [Challenges](#challenges)
 
+
+- **/src:** Contains the project source code.
+- **/docs:** Documentation related to the project.
+- **/screenshots:** Visual representations of the project in action.
+
 ## Steps to Replicate
 1. **Set Up Amazon S3 Bucket:**
    - Follow the steps mentioned earlier to create an Amazon S3 bucket with a unique name.
